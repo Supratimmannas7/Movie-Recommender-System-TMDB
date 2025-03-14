@@ -1,3 +1,3 @@
-# movie-recommender-system-tmdb-dataset
+# Movie-Recommender-system-TMDB-dataset
 A content based movie recommender system using cosine similarity
 ◦	This project  presents a  Movie Recommender System utilizing data from The Movie Database (TMDB) to provide personalized movie suggestions. By integrating datasets containing movie details and credits, we preprocess and extract relevant features  such  as genres,  keywords,  cast, and crew. Using a bag-of-words approach  with Count Vectorization,  we create a similarity matrix based on  text data from these  features.  The system employs cosine similarity to recommend movies similar to  a given title, enhancing user experience through tailored suggestions. The results demonstrate the effectiveness of  this method in generating relevant recommendations, contributing to advancements in recommendation algorithms in the entertainment industry
